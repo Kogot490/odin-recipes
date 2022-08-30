@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(138, 78, 0);
+    color:rgb(180, 161, 137);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    border-style: groove;
+    border-color: black;
+    font-weight: bold;
+
+    
+}
+
+
+.title {
+    font-size: 100px;
+    text-decoration: wavy;
+    background-color: rgb(3, 2, 2);
+    font-weight: bolder;
+   
+}
+
+ul {
+    display: inline-block;
+    margin-left: 30%;
+    transform: translateX(-50%);
+    text-align: justify;
+
+  }
+
+ol {
+    display: inline-block;
+    margin-left: 55%;
+    transform: translateX(-50%);
+    text-align: justify;
+  }
+
+  #recipelist {
+    text-align: left !important;
+  }
