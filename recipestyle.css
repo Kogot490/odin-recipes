@@ -14,7 +14,6 @@ body {
 
 .title {
     font-size: 100px;
-    text-decoration: wavy;
     background-color: rgb(3, 2, 2);
     font-weight: bolder;
    
@@ -33,8 +32,4 @@ ol {
     margin-left: 55%;
     transform: translateX(-50%);
     text-align: justify;
-  }
-
-  #recipelist {
-    text-align: left !important;
   }
